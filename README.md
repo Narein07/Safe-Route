@@ -64,5 +64,5 @@ Distributed under the **Apache License 2.0**. See `LICENSE` for more information
 <div align="center">
 Built with ❤️ for a safer tomorrow.
 </div>
-A fork of [SafeRoute](https://github.com)
 
+A fork of [SafeRoute](https://github.com)
